@@ -1,0 +1,8 @@
+chown : 소유권주기
+chwon hb:hb test.txt
+
+chmod : 권한주기
+chmod 777
+
+rwx rwx rwx
+permission bit라고함
